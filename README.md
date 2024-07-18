@@ -20,4 +20,6 @@ System Requirements: Python 3 , OpenCV, Numpy installed.
 
 Screenshots :
 
+Screenshot_Demo_Pic.jpg
+
 
