@@ -20,6 +20,8 @@ System Requirements: Python 3 , OpenCV, Numpy installed.
 
 Screenshots :
 
-Screenshot_Demo_Pic.jpg
+![WhatsApp Image 2024-07-18 at 21 47 17_107d80bd](https://github.com/user-attachments/assets/2fb12036-fdff-44a5-801f-9e50c71343a9)
+
+
 
 
