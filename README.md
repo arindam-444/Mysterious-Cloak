@@ -18,4 +18,4 @@ System Requirements: Python 3 , OpenCV, Numpy installed.
 
 5.Enjoy the effect.
 
-![Uploading WhatsApp Image 2024-07-18 at 21.47.17_60019ca2.jpg…]()
+Screenshots :
