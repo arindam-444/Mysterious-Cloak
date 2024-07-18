@@ -17,3 +17,5 @@ System Requirements: Python 3 , OpenCV, Numpy installed.
 4.Adjust the HSV values for the color of sheet to be in range.
 
 5.Enjoy the effect.
+
+![Uploading WhatsApp Image 2024-07-18 at 21.47.17_60019ca2.jpg…]()
